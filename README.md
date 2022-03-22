@@ -5,7 +5,9 @@
 
 ### 项目说明
 lib-annotations: 编写一个 BindView 注解
+<br>
 lib-processor: 根据注解生成为使用 BindView 注解的类生成对应的 XXBinding.java 文件
+<br>
 lib-bindview: 根据反射调用生成的 XXBinding.java 文件
 
 ### 使用说明

@@ -1,7 +1,7 @@
 ## APT(Annotation Processing Tool)注解处理器
 
 ### 项目简介
-仿 ButterKnife 写的一个注解处理器，在编译器生成 XXBinding.java 文件，省去了 View 的 findViewById() 方法
+仿 ButterKnife 写的一个注解处理器，在编译期生成 XXBinding.java 文件，省去了 View 的 findViewById() 方法
 
 ### 项目说明
 lib-annotations: 编写一个 BindView 注解
